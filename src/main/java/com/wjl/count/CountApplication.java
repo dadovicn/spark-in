@@ -12,10 +12,6 @@ public class CountApplication {
     private WordCountService wordCountService;
 
     public static void main(String[] args) {
-        // asdf asdf
         SpringApplication.run(CountApplication.class, args);
-
     }
-
-
 }
